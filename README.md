@@ -49,7 +49,9 @@ automation: 0.5
 3. Sentence Scores:
    
 S1: “AI is changing the world.” → Score = 1.0 + 0.5 + 0.5 = 2.0
+
 S2: “It helps in healthcare and education.” → Score = 0.5 + 0.5 + 0.5 = 1.5
+
 S3: “People use AI for automation.” → Score = 0.5 + 0.5 + 1.0 + 0.5 = 2.5
 
 4. Select Top Sentences (e.g., 50% summary → top 1 or 2 sentences)
