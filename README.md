@@ -33,7 +33,7 @@ Input Text (English, Short):
 Filtered tokens (no stopwords or punctuation):
 ai:2, changing:1, world:1, helps:1, healthcare:1, education:1, people:1, use:1, automation:1
 
-👉 Max freq = 2 (for “ai”)
+ 👉 Max freq = 2 (for “ai”)
 
 2. Normalized Word Frequencies:
 ai: 1.0
@@ -48,14 +48,14 @@ automation: 0.5
 
 3. Sentence Scores:
    
-S1: “AI is changing the world.” → Score = 1.0 + 0.5 + 0.5 = 2.0
+ S1: “AI is changing the world.” → Score = 1.0 + 0.5 + 0.5 = 2.0
 
-S2: “It helps in healthcare and education.” → Score = 0.5 + 0.5 + 0.5 = 1.5
+ S2: “It helps in healthcare and education.” → Score = 0.5 + 0.5 + 0.5 = 1.5
 
-S3: “People use AI for automation.” → Score = 0.5 + 0.5 + 1.0 + 0.5 = 2.5
+ S3: “People use AI for automation.” → Score = 0.5 + 0.5 + 1.0 + 0.5 = 2.5
 
 4. Select Top Sentences (e.g., 50% summary → top 1 or 2 sentences)
 Pick top 2: S3 and S1
 
-✅ Final Summary:
-"People use AI for automation. AI is changing the world."
+ ✅ Final Summary:
+ "People use AI for automation. AI is changing the world."
