@@ -35,13 +35,21 @@ A simple and powerful Streamlit app for summarizing text in multiple languages u
 **Filtered Tokens** *(excluding stopwords and punctuation)*:
 
 ai: 2
+
 changing: 1
+
 world: 1
+
 helps: 1
+
 healthcare: 1
+
 education: 1
+
 people: 1
+
 use: 1
+
 automation: 1
 
 👉 **Max Frequency** = 2 (for “ai”)
@@ -49,13 +57,21 @@ automation: 1
 ### 2️⃣ Normalized Word Frequencies
 
 ai: 1.0
+
 changing: 0.5
+
 world: 0.5
+
 helps: 0.5
+
 healthcare: 0.5
+
 education: 0.5
+
 people: 0.5
+
 use: 0.5
+
 automation: 0.5
 
 ### 3️⃣ Sentence Scores
